@@ -1,2 +1,6 @@
-# gpc_eos_wallet
-Good People Coin Wallet
+# Good People Fund EOS web wallet client
+
+## run
+
+yarn
+yarn start
